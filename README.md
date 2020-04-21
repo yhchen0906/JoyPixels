@@ -1,6 +1,6 @@
 # JoyPixels
 
-Systemlessly replaces emoji font with JoyPixels.
+Systemlessly replace emoji font with JoyPixels.
 
 _Current JoyPixels version: `5.5.0`_
 
