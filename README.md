@@ -2,7 +2,7 @@
 
 Systemlessly replace emoji font with JoyPixels.
 
-_Current JoyPixels version: `6.0.0`_
+_Current JoyPixels version: `6.5.0`_
 
 ## Change Log
 
